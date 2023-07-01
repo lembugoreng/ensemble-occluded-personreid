@@ -1,6 +1,6 @@
 Torchreid
 ===========
-Torchreid is a library for deep-learning person re-identification, written in `PyTorch <https://pytorch.org/>`_ and developed by https://github.com/KaiyangZhou/deep-person-reid, `Omni-Scale Feature Learning for Person Re-Identification <https://arxiv.org/abs/1905.00953>`_.
+Torchreid is a library for deep-learning person re-identification, written in `PyTorch <https://pytorch.org/>`_ and developed by https://github.com/KaiyangZhou/deep-person-reid.
 
 
 Documentation: https://kaiyangzhou.github.io/deep-person-reid/.
