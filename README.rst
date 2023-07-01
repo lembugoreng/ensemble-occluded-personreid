@@ -9,9 +9,6 @@ How-to instructions: https://kaiyangzhou.github.io/deep-person-reid/user_guide.
 
 Model zoo: https://kaiyangzhou.github.io/deep-person-reid/MODEL_ZOO.
 
-Tech report: https://arxiv.org/abs/1910.10093.
-
-
 
 Installation
 ---------------
